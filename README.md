@@ -1,5 +1,5 @@
 # 2020操作系统课程设计
-[![演示视频点击就可跳转](picture/index.png)](https://www.bilibili.com/video/BV1aK4y147zC/)
+![演示视频点击就可跳转](picture/index.png)
 
 ## 一、 目的、要求
 ### 1.课设目的
